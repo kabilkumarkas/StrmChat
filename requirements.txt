@@ -1,0 +1,4 @@
+﻿pytz==2024.1
+watchdog==4.0.1
+ollama
+gemma:2b
